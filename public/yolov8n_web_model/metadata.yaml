@@ -1,0 +1,13 @@
+description: Ultralytics best model trained on /content/Rust-Model-3/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-08-14T06:47:54.713150'
+version: 8.0.154
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Rust
